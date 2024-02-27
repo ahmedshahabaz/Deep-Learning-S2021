@@ -1,0 +1,7 @@
+torch==1.7.1+cu110
+torchaudio==0.7.2
+torchgeometry==0.1.2
+torchvision==0.8.2+cu110
+tqdm==4.48.0
+numpy==1.19.5
+tensorboard==2.2.2
